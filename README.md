@@ -1,5 +1,9 @@
 # openWorkBenchesApp
 
+The planned Flutter desktop and mobile application for organization sign-in, workstation setup, approvals, and installation status.
+
+This repository is an initial project scaffold. Application functionality will be implemented in the code leg.
+
 The ASSEMBLY ROOT of the `openworkbenchesapp` project — the repository you clone.
 It holds no product code of its own: it holds the manifest that says what this
 project IS, the two legs as submodules, and the pins that say which commit of
@@ -165,3 +169,8 @@ Everything under `scripts/`, plus `contracts/repository-naming.yaml` and
 `contracts/shape-pin.yaml`. Edit them upstream, not here — a local edit is
 reported as drift. `AGENTS.md` and `CLAUDE.md` have no row and are this
 project's own.
+
+
+## License
+
+Apache-2.0. Copyright 2026 OpenSoft. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
